@@ -1,0 +1,37 @@
+{
+  "v": 1,
+  "updated": "2026-06-03T22:00:00Z",
+  "source": "bootstrap-seed",
+  "totals": {
+    "dailyNetMUSD": 178.5,
+    "weeklyNetMUSD": -612.3,
+    "cumulativeBUSD": 31.4
+  },
+  "byTicker": [
+    { "ticker": "IBIT", "dailyMUSD":  215.6, "weeklyMUSD":   240.8 },
+    { "ticker": "FBTC", "dailyMUSD":   42.1, "weeklyMUSD":  -180.4 },
+    { "ticker": "ARKB", "dailyMUSD":  -28.5, "weeklyMUSD":  -145.2 },
+    { "ticker": "BITB", "dailyMUSD":  -18.2, "weeklyMUSD":  -110.5 },
+    { "ticker": "GBTC", "dailyMUSD":  -52.4, "weeklyMUSD":  -355.8 },
+    { "ticker": "BTCO", "dailyMUSD":    8.5, "weeklyMUSD":   -28.4 },
+    { "ticker": "HODL", "dailyMUSD":    4.2, "weeklyMUSD":   -22.1 },
+    { "ticker": "EZBC", "dailyMUSD":    3.8, "weeklyMUSD":   -18.6 },
+    { "ticker": "BRRR", "dailyMUSD":    2.5, "weeklyMUSD":   -12.4 },
+    { "ticker": "BTCW", "dailyMUSD":    1.4, "weeklyMUSD":    -8.2 },
+    { "ticker": "BTC",  "dailyMUSD":   -0.5, "weeklyMUSD":   -11.5 }
+  ],
+  "lastDays": [
+    { "date": "2026-05-19", "totalMUSD":  -198.4 },
+    { "date": "2026-05-20", "totalMUSD":  -245.1 },
+    { "date": "2026-05-21", "totalMUSD":  -310.5 },
+    { "date": "2026-05-22", "totalMUSD":  -212.8 },
+    { "date": "2026-05-23", "totalMUSD":   -88.4 },
+    { "date": "2026-05-26", "totalMUSD":  -198.3 },
+    { "date": "2026-05-27", "totalMUSD":  -284.6 },
+    { "date": "2026-05-28", "totalMUSD":  -125.4 },
+    { "date": "2026-05-29", "totalMUSD":   -45.8 },
+    { "date": "2026-05-30", "totalMUSD":    62.3 },
+    { "date": "2026-06-02", "totalMUSD":   145.2 },
+    { "date": "2026-06-03", "totalMUSD":   178.5 }
+  ]
+}
